@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="kahl.png">
+<SubTexture name="kahl idle0000" x="3716" y="832" width="733" height="826" frameX="-972" frameY="-187" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="kahl idle0001" x="0" y="864" width="733" height="853" frameX="-971" frameY="-160" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="kahl idle0002" x="1467" y="0" width="735" height="854" frameX="-972" frameY="-159" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="kahl idle0003" x="2202" y="853" width="736" height="851" frameX="-972" frameY="-162" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="kahl idle0004" x="1568" y="1717" width="735" height="850" frameX="-973" frameY="-163" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="kahl right0000" x="0" y="0" width="732" height="864" frameX="-1003" frameY="-150" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="kahl right0001" x="732" y="0" width="735" height="857" frameX="-993" frameY="-157" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="kahl right0002" x="733" y="864" width="736" height="853" frameX="-985" frameY="-161" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="kahl right0003" x="2202" y="0" width="736" height="853" frameX="-984" frameY="-161" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="kahl left0000" x="0" y="3415" width="740" height="830" frameX="-942" frameY="-183" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="kahl left0001" x="3716" y="0" width="739" height="832" frameX="-948" frameY="-181" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="kahl left0002" x="2203" y="2569" width="738" height="837" frameX="-951" frameY="-176" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="kahl left0003" x="2941" y="2569" width="738" height="837" frameX="-952" frameY="-176" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="kahl up0000" x="0" y="1717" width="786" height="852" frameX="-972" frameY="-163" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="kahl up0001" x="786" y="1717" width="782" height="851" frameX="-973" frameY="-164" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="kahl up0002" x="2938" y="0" width="778" height="848" frameX="-974" frameY="-166" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="kahl up0003" x="2938" y="848" width="777" height="847" frameX="-974" frameY="-167" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="kahl down0000" x="1468" y="2569" width="735" height="845" frameX="-978" frameY="-168" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="kahl down0001" x="0" y="2569" width="734" height="846" frameX="-977" frameY="-167" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="kahl down0002" x="734" y="2569" width="734" height="846" frameX="-976" frameY="-167" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="kahl down0003" x="2938" y="1695" width="734" height="847" frameX="-976" frameY="-166" frameWidth="1920" frameHeight="1080" />
+</TextureAtlas>

@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="stanney.png">
+<SubTexture name="stanney idle0000" x="0" y="1708" width="1287" height="849" frameX="-339" frameY="-166" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="stanney idle0001" x="1297" y="855" width="1289" height="850" frameX="-339" frameY="-165" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="stanney idle0002" x="0" y="855" width="1297" height="853" frameX="-332" frameY="-162" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="stanney idle0003" x="0" y="0" width="1298" height="855" frameX="-331" frameY="-160" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="stanney idle0004" x="1298" y="0" width="1298" height="855" frameX="-331" frameY="-160" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="stanney idle0005" x="1298" y="0" width="1298" height="855" frameX="-331" frameY="-160" frameWidth="1920" frameHeight="1080" />
+</TextureAtlas>
