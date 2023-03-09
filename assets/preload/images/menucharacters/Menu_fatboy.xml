@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="Menu_fatboy.png">
+<SubTexture name="Menu_fatboy idle dance0000" x="557" y="0" width="726" height="563" frameX="-687" frameY="-254" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="Menu_fatboy idle dance0001" x="0" y="564" width="556" height="563" frameX="-687" frameY="-254" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="Menu_fatboy idle dance0002" x="0" y="0" width="557" height="564" frameX="-686" frameY="-254" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="Menu_fatboy idle dance0003" x="0" y="0" width="557" height="564" frameX="-686" frameY="-254" frameWidth="1920" frameHeight="1080" />
+</TextureAtlas>
