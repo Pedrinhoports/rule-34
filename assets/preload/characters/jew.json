@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				736,
+				320
+			],
+			"loop": false,
+			"fps": 12,
+			"anim": "idle",
+			"indices": [],
+			"name": "kahl idle"
+		},
+		{
+			"offsets": [
+				736,
+				320
+			],
+			"loop": false,
+			"fps": 12,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "kahl left"
+		},
+		{
+			"offsets": [
+				737,
+				320
+			],
+			"loop": false,
+			"fps": 12,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "kahl down"
+		},
+		{
+			"offsets": [
+				735,
+				320
+			],
+			"loop": false,
+			"fps": 12,
+			"anim": "singUP",
+			"indices": [],
+			"name": "kahl up"
+		},
+		{
+			"offsets": [
+				736,
+				320
+			],
+			"loop": false,
+			"fps": 12,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "kahl right"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/kahl",
+	"position": [
+		0,
+		350
+	],
+	"healthicon": "jew",
+	"flip_x": true,
+	"healthbar_colors": [
+		85,
+		185,
+		73
+	],
+	"camera_position": [
+		70,
+		70
+	],
+	"sing_duration": 4,
+	"scale": 0.4
+}

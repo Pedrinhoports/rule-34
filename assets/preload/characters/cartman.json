@@ -1,0 +1,100 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				595,
+				317
+			],
+			"anim": "idle",
+			"fps": 12,
+			"name": "cartman idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				595,
+				317
+			],
+			"anim": "singLEFT",
+			"fps": 12,
+			"name": "cartman left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				596,
+				317
+			],
+			"anim": "singDOWN",
+			"fps": 12,
+			"name": "cartman down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				594,
+				317
+			],
+			"anim": "singUP",
+			"fps": 12,
+			"name": "cartman up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				594,
+				317
+			],
+			"anim": "singRIGHT",
+			"fps": 12,
+			"name": "cartman right",
+			"indices": []
+		},
+		{
+			"offsets": [
+				595,
+				317
+			],
+			"loop": false,
+			"fps": 12,
+			"anim": "cartman teasing",
+			"indices": [],
+			"name": "cartman teasing"
+		},
+		{
+			"offsets": [
+				595,
+				317
+			],
+			"loop": false,
+			"fps": 12,
+			"anim": "cartman laughing",
+			"indices": [],
+			"name": "cartman laughing"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/cartman",
+	"position": [
+		0,
+		350
+	],
+	"healthicon": "fatty",
+	"flip_x": false,
+	"healthbar_colors": [
+		238,
+		50,
+		83
+	],
+	"camera_position": [
+		-80,
+		80
+	],
+	"sing_duration": 4,
+	"scale": 0.4
+}

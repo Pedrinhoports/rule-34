@@ -1,0 +1,34 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				610,
+				50
+			],
+			"loop": false,
+			"fps": 12,
+			"anim": "idle",
+			"indices": [],
+			"name": "stanney idle"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/stanney",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "",
+	"flip_x": false,
+	"healthbar_colors": [
+		161,
+		161,
+		161
+	],
+	"camera_position": [
+		-180,
+		310
+	],
+	"sing_duration": 4,
+	"scale": 0.4
+}
