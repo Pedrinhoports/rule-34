@@ -1,0 +1,26 @@
+{
+	"song": {
+		"events": [
+			[
+				36281.25,
+				[
+					[
+						"Play Animation",
+						"cartman teasing",
+						"cartman"
+					]
+				]
+			],
+			[
+				59718.75,
+				[
+					[
+						"Play Animation",
+						"cartman laughing",
+						"cartman"
+					]
+				]
+			]
+		]
+	}
+}
